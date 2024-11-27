@@ -16,9 +16,7 @@
 </ul><h5>Steps</h5><ul>
 <li>1.Clone the repository:</li>
 </ul><ul>
-git clone https://github.com/YourUsername/To-Do-List.git
-</ul><ul>
+
+</ul>
 <li>2.Navigate to the project directory:</li>
-</ul><ul>
-cd To-Do-List
 </ul>
