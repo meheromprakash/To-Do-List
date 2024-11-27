@@ -13,10 +13,3 @@
 <li>Complete Tasks: Mark tasks as completed using checkboxes, visually indicating completion.</li>
 </ul><ul>
 <li>Delete Tasks: Remove tasks from the list with a single click on the delete icon.</li>
-</ul><h5>Steps</h5><ul>
-<li>1.Clone the repository:</li>
-</ul><ul>
-
-</ul>
-<li>2.Navigate to the project directory:</li>
-</ul>
